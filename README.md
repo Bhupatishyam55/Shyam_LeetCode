@@ -11,10 +11,12 @@ my LeetCode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +26,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -52,6 +55,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -70,4 +74,8 @@ my LeetCode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
