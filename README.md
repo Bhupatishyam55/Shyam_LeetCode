@@ -13,6 +13,7 @@ my LeetCode problems
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ my LeetCode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +49,7 @@ my LeetCode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,4 +95,8 @@ my LeetCode problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
