@@ -99,4 +99,8 @@ my LeetCode problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
