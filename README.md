@@ -10,6 +10,7 @@ my LeetCode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +63,7 @@ my LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 ## Tree
