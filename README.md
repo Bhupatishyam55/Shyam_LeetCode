@@ -9,6 +9,7 @@ my LeetCode problems
 | [0001-two-sum](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ my LeetCode problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
