@@ -20,4 +20,12 @@ my LeetCode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
