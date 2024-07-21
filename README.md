@@ -18,6 +18,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +39,8 @@ my LeetCode problems
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
