@@ -59,6 +59,7 @@ my LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
