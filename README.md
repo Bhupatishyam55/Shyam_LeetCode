@@ -15,6 +15,7 @@ my LeetCode problems
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +117,12 @@ my LeetCode problems
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
