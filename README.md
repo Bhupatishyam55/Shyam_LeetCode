@@ -73,6 +73,7 @@ my LeetCode problems
 | [0009-palindrome-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -135,4 +136,8 @@ my LeetCode problems
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
