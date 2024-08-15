@@ -10,6 +10,7 @@ my LeetCode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -28,6 +29,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
