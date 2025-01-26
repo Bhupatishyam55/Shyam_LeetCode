@@ -43,6 +43,7 @@ my LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ my LeetCode problems
 | [0066-plus-one](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -140,4 +142,8 @@ my LeetCode problems
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
