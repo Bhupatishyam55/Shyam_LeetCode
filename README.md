@@ -16,6 +16,7 @@ my LeetCode problems
 | [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
@@ -60,6 +61,7 @@ my LeetCode problems
 | [0027-remove-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0344-reverse-string) |
@@ -74,6 +76,7 @@ my LeetCode problems
 | [0009-palindrome-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
