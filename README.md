@@ -21,6 +21,7 @@ my LeetCode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
@@ -131,6 +132,7 @@ my LeetCode problems
 | ------- |
 | [0136-single-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
