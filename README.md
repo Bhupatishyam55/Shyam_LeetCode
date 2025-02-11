@@ -32,6 +32,7 @@ my LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
@@ -54,6 +55,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
@@ -97,6 +99,7 @@ my LeetCode problems
 | [0075-sort-colors](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
