@@ -34,6 +34,7 @@ my LeetCode problems
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ my LeetCode problems
 | [0020-valid-parentheses](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
@@ -125,6 +127,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -135,6 +138,7 @@ my LeetCode problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
