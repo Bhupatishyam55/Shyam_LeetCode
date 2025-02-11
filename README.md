@@ -60,6 +60,7 @@ my LeetCode problems
 | [0344-reverse-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ my LeetCode problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
 | ------- |
