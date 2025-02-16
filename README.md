@@ -27,6 +27,7 @@ my LeetCode problems
 | [0287-find-the-duplicate-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ my LeetCode problems
 | [0268-missing-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
