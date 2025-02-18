@@ -97,6 +97,7 @@ my LeetCode problems
 | [0009-palindrome-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0326-power-of-three) |
@@ -170,6 +171,7 @@ my LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -188,4 +190,8 @@ my LeetCode problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
