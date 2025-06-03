@@ -33,6 +33,7 @@ my LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
@@ -59,6 +60,7 @@ my LeetCode problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0344-reverse-string) |
@@ -95,6 +97,7 @@ my LeetCode problems
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bhupatishyam55/Shyam_LeetCode/tree/master/0070-climbing-stairs) |
